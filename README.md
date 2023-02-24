@@ -6,6 +6,7 @@
 - 📝 Looking for open-source projects
 - 🎮 Professional amateur gamer
 - 📚 Learning: JavaScript
+- 📂 Owner of [Squid's Aquarium](https://discord.gg/pvEDaHYyGk)
 
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Squidnugget77&count_private=true&show_icons=true?theme=buefy&theme=dark"/>
 
