@@ -6,7 +6,7 @@
 - 📝 Looking for open-source projects
 - 🎮 Professional amateur gamer
 - 📚 Learning: Swift
-- 📂 Owner of [The Lazy Programmer Discord](https://discord.gg/fm66PBXsTw)
+- 📂 Owner of [The Programmer's Mead Hall](https://discord.gg/fm66PBXsTw)
 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Squidnugget77&count_private=true&show_icons=true?theme=buefy&theme=dark"/>
 
