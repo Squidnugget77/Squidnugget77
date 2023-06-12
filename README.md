@@ -1,4 +1,4 @@
-### Squid on GitHub 👋
+### Luca on GitHub 👋
 
 
 - 🐍 Python Developer since 2021
