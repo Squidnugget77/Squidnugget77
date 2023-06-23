@@ -18,7 +18,7 @@
 
 <p>—</p> Hey, I'm an aspiring software engineer. You can call me Squid.
 <p>—</p> I'm interested in machine learning, app development, and general software development. Otherwise, you can catch me reading, playing video games, or focusing on school work.
-<p>—</p> I'm currently learning [ Swift ].
+<p>—</p> I'm currently learning: Swift.
         
 <p>—</p> 
 
