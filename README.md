@@ -71,4 +71,3 @@ You can easily contact me through the [Programmer's Mead Hall Discord Server](ht
       <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=Squidnugget77&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=11151C" />
     </a>
   </p>
-
