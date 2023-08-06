@@ -51,7 +51,7 @@ You can easily contact me through the [Programmer's Mead Hall Discord Server](ht
      <img src="https://github.com/Squidnugget77/Squidnugget77/assets/101853174/f0dbeb30-ec67-4fac-814d-b52dbde362e9" width="64px" />
   </h3>
     <p align="left">
-      <a href="https://github.com/Squidnugget77/virtual-brewery">
+      <a href="https://github.com/Squidnugget77/squidnugget77.github.io">
         <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=Squidnugget77&repo=virtual-brewery&theme=github_dark&hide_border=true&bg_color=11151C" />
       </a>
       <a href="https://github.com/Squidnugget77/IB-CAS-Portfolio">
