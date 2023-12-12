@@ -20,11 +20,7 @@
 <p>—</p> I'm interested in machine learning, app development, and general software development. Otherwise, you can catch me reading, playing video games, or focusing on school work.
 <p>—</p> I'm currently learning: Swift.
         
-<p>—</p> 
-
-You can easily contact me through the [Programmer's Mead Hall Discord Server](https://discord.gg/fm66PBXsTw).
-
-
+<p>—</p>
 
 <h3>
   <img src="https://github.com/Squidnugget77/Squidnugget77/assets/101853174/98e36543-f115-46d8-8bad-b9191ca15564" width="64px" />
