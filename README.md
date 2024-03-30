@@ -1,5 +1,5 @@
 <h2>
-  Squid on GitHub ~
+  Luca on GitHub ~
   <img src="https://github.com/Squidnugget77/Squidnugget77/assets/101853174/bb165307-6543-4d3e-8cf7-a9c66760edec" width="64px" />
 </h2>
 <div align="left">
