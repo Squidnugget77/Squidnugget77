@@ -51,7 +51,7 @@
         <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=Squidnugget77&repo=squidnugget77.github.io&theme=github_dark&hide_border=true&bg_color=11151C" />
       </a>
       <a href="https://github.com/Squidnugget77/Virtual-Brewery">
-        <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=Squidnugget77&repo=Virtual-Brewery&theme=github_dark&hide_border=true&bg_color=11151C" />
+        <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/pin/?username=Squidnugget77&repo=assistant-duck&theme=github_dark&hide_border=true&bg_color=11151C" />
       </a>
     </p>
     
