@@ -32,7 +32,7 @@
   </a>
   </p>
 
-  <h3>
+ <!-- <h3>
     Recent Projects ~
      <img src="https://github.com/Squidnugget77/Squidnugget77/assets/101853174/f0dbeb30-ec67-4fac-814d-b52dbde362e9" width="64px" />
   </h3>
@@ -57,3 +57,4 @@
       <img src="https://readme-stats-job4fi7g8-xero-dev.vercel.app/api/top-langs/?username=Squidnugget77&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=11151C" />
     </a>
   </p>
+--!>
