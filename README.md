@@ -24,11 +24,11 @@
   
   <h3>
     <img src="https://github.com/Squidnugget77/Squidnugget77/assets/101853174/3f7969a9-764f-4399-b360-bb65edc979aa" width="64px" />
-    Software I Use ~
+    Software & Tools I Use ~
   </h3>
   <p>
     <a href="https://github.com/Squidnugget77">
-    <img src="https://skillicons.dev/icons?i=vscode,docker,git,xcode" />
+    <img src="https://skillicons.dev/icons?i=vscode,docker,git,webstorm,pycharm,ubuntu" />
   </a>
   </p>
 
