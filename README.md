@@ -7,7 +7,7 @@
 </h3>
 
 <p>—</p> Hello 👋
-<p>—</p> 
+<p>—</p> I am interested in machine learning and full-stack web development.
 <p>—</p> I'm currently learning: React.
         
 <p>—</p>
