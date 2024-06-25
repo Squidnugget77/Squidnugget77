@@ -6,9 +6,9 @@
 <img src="https://github.com/Squidnugget77/Squidnugget77/assets/101853174/0f683400-0036-4dde-8e09-3af0c2d8698e" width="64px" />
 </h3>
 
-<p>—</p> Hey, I'm an aspiring software engineer. You can call me Squid.
-<p>—</p> I'm interested in machine learning, app development, and general software development. Otherwise, you can catch me reading, playing video games, or focusing on school work.
-<p>—</p> I'm currently learning: Swift.
+<p>—</p> Hello 👋
+<p>—</p> 
+<p>—</p> I'm currently learning: React.
         
 <p>—</p>
 
